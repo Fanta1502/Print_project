@@ -1,0 +1,52 @@
+D:\VBScript\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\VBScript\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\Pkcs11Interop.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\Pkcs11Interop.xml
+D:\VBScript\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+D:\VBScript\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\PdfSharp.Charting.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\PdfSharp.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\PdfSharp.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\PdfSharp.Charting.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\de\PdfSharp.resources.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\PdfiumViewer.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\PdfiumViewer.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\x64\pdfium.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\x86\pdfium.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\System.CodeDom.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\System.CodeDom.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\Google.Protobuf.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\K4os.Compression.LZ4.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\K4os.Hash.xxHash.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\MySql.Data.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\System.Buffers.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\System.Memory.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\ZstdNet.dll
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\BouncyCastle.Crypto.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\Google.Protobuf.pdb
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\Google.Protobuf.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\K4os.Compression.LZ4.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\K4os.Hash.xxHash.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\MySql.Data.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\System.Buffers.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\System.Memory.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\Print App.exe.config
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\Print App.exe
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\Print App.pdb
+D:\VBScript\WindowsApp1\WindowsApp1\bin\Debug\Print App.xml
+D:\VBScript\WindowsApp1\WindowsApp1\obj\Debug\PrintApp.Form1.resources
+D:\VBScript\WindowsApp1\WindowsApp1\obj\Debug\PrintApp.history.resources
+D:\VBScript\WindowsApp1\WindowsApp1\obj\Debug\PrintApp.Resources.resources
+D:\VBScript\WindowsApp1\WindowsApp1\obj\Debug\Print App.exe
+D:\VBScript\WindowsApp1\WindowsApp1\obj\Debug\Print App.xml
+D:\VBScript\WindowsApp1\WindowsApp1\obj\Debug\Print App.pdb
+D:\VBScript\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
